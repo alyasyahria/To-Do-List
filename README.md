@@ -8,7 +8,7 @@ Website To-Do List sederhana dengan fitur kalender dan pengelolaan tugas harian.
 - Prioritaskan tugas berdasarkan tingkat urgensi
 - Filter tugas berdasarkan status (selesai, belum selesai)
 - Kalender bulanan untuk melihat jadwal tugas
-- 
+  
 ## Cara Menjalankan
 1. Clone repositori ini ke komputer Anda:
    ```bash
